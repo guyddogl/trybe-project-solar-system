@@ -11,7 +11,6 @@ O objetivo deste projeto é criar uma aplicação básica em React utilizando co
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b374b?style=for-the-badge&logo=Bootstrap)&nbsp;
 ![React](https://img.shields.io/badge/-React-1b374b?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-1b374b?style=for-the-badge&logo=jest)&nbsp;
 <hr/>
 
 <img src="https://raw.githubusercontent.com/guyddogl/trybe-project-solar-system/main/src/images/solar-system-preview.png" alt="Imagem Preview" />
